@@ -1,6 +1,6 @@
 # Bright Data's Yelp Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/solutions/yelp-proxy) 
+[![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/solutions/yelp-proxy) 
 
 ## Overview
 精密なターゲティング、比類のない安定性、迅速なレスポンスタイムを提供するよう設計された Bright Data の [Yelp proxies](https://brightdata.jp/solutions/yelp-proxy) で、シームレスなスクレイピングをご体験ください。
